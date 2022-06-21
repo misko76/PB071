@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Miso/Desktop/hw04/src/ini_parser.h
+stdbool.h
+-
+
+C:/Users/Miso/Desktop/hw04/src/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+view.h
+C:/Users/Miso/Desktop/hw04/src/view.h
+ini_parser.h
+C:/Users/Miso/Desktop/hw04/src/ini_parser.h
+
+C:/Users/Miso/Desktop/hw04/src/view.h
+ctype.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+

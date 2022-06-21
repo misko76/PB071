@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Miso/Desktop/PB071/hw02/main.c
+sudoku.h
+C:/Users/Miso/Desktop/PB071/hw02/sudoku.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
+C:/Users/Miso/Desktop/PB071/hw02/sudoku.c
+sudoku.h
+C:/Users/Miso/Desktop/PB071/hw02/sudoku.h
+
+C:/Users/Miso/Desktop/PB071/hw02/sudoku.h
+stdio.h
+-
+stdbool.h
+-
+

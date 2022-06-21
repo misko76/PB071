@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Miso/Desktop/hw05/test.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+C:/Users/Miso/Desktop/hw05/stdio.h
+

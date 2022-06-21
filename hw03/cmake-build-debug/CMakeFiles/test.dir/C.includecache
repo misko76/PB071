@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Miso/Desktop/PB071/hw03/scheduler.h
+stdbool.h
+-
+stdint.h
+-
+stdlib.h
+-
+
+C:/Users/Miso/Desktop/PB071/hw03/test.c
+scheduler.h
+C:/Users/Miso/Desktop/PB071/hw03/scheduler.h
+stdio.h
+-
+

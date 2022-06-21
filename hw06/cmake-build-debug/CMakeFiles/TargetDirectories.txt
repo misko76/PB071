@@ -1,0 +1,5 @@
+C:/Users/Miso/Desktop/hw06/cmake-build-debug/CMakeFiles/CRACK.dir
+C:/Users/Miso/Desktop/hw06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Miso/Desktop/hw06/cmake-build-debug/CMakeFiles/EX.dir
+C:/Users/Miso/Desktop/hw06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Miso/Desktop/hw06/cmake-build-debug/CMakeFiles/TEST.dir

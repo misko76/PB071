@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Miso/Desktop/hw05/tar.c
+string.h
+-
+stdio.h
+-
+stdbool.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+pwd.h
+-
+grp.h
+-
+dirent.h
+-
+utime.h
+-
+view.h
+C:/Users/Miso/Desktop/hw05/view.h
+
+C:/Users/Miso/Desktop/hw05/view.h
+ctype.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+

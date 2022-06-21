@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Miso/Desktop/hw06/cracker.c
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+md5.c
+C:/Users/Miso/Desktop/hw06/md5.c
+
+C:/Users/Miso/Desktop/hw06/md5.c
+string.h
+-
+md5.h
+C:/Users/Miso/Desktop/hw06/md5.h
+
+C:/Users/Miso/Desktop/hw06/md5.h
+openssl/md5.h
+-
+stddef.h
+-
+stdint.h
+-
+

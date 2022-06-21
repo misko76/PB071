@@ -1,0 +1,4 @@
+C:/Users/Miso/Desktop/PB071/hw03/cmake-build-debug/CMakeFiles/queuectl.dir
+C:/Users/Miso/Desktop/PB071/hw03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Miso/Desktop/PB071/hw03/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/Miso/Desktop/PB071/hw03/cmake-build-debug/CMakeFiles/edit_cache.dir

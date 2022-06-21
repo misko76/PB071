@@ -1,0 +1,4 @@
+C:/Users/Miso/Desktop/hw05/cmake-build-debug/CMakeFiles/tar.dir
+C:/Users/Miso/Desktop/hw05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Miso/Desktop/hw05/cmake-build-debug/CMakeFiles/TEST.dir
+C:/Users/Miso/Desktop/hw05/cmake-build-debug/CMakeFiles/edit_cache.dir

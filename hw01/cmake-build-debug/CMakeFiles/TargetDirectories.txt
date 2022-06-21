@@ -1,0 +1,3 @@
+C:/Users/Miso/Desktop/PB071/hw01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Miso/Desktop/PB071/hw01/cmake-build-debug/CMakeFiles/base58.dir
+C:/Users/Miso/Desktop/PB071/hw01/cmake-build-debug/CMakeFiles/edit_cache.dir
